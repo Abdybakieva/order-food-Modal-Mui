@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/order-food-Modal-Mui/static/css/main.df5aeb8a.css",
+    "main.js": "/order-food-Modal-Mui/static/js/main.9193f181.js",
+    "static/js/787.1e3a1bdd.chunk.js": "/order-food-Modal-Mui/static/js/787.1e3a1bdd.chunk.js",
+    "static/media/1.jpg": "/order-food-Modal-Mui/static/media/1.058e3a5749d88597754f.jpg",
+    "static/media/Group.svg": "/order-food-Modal-Mui/static/media/Group.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/order-food-Modal-Mui/index.html",
+    "static/media/PlusIcons.svg": "/order-food-Modal-Mui/static/media/PlusIcons.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "main.df5aeb8a.css.map": "/order-food-Modal-Mui/static/css/main.df5aeb8a.css.map",
+    "main.9193f181.js.map": "/order-food-Modal-Mui/static/js/main.9193f181.js.map",
+    "787.1e3a1bdd.chunk.js.map": "/order-food-Modal-Mui/static/js/787.1e3a1bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df5aeb8a.css",
+    "static/js/main.9193f181.js"
+  ]
+}
